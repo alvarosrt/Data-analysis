@@ -25,6 +25,5 @@ To provide a comprehensive understanding, the project includes several visualiza
 5. **Number of Vulnerabilities by Top Vendors**: Bar chart highlighting the vendors with the most reported vulnerabilities.
 6. **Number of Vulnerabilities by Top Products**: Bar chart identifying the products with the highest number of vulnerabilities.
 
-## Conclusion
-
+>[!NOTE]
 This analysis provides valuable insights into the landscape of cybersecurity vulnerabilities, enabling better preparation and protection strategies. By understanding the nature, severity, and vectors of these vulnerabilities, organizations can prioritize their security efforts and mitigate potential risks more effectively.
