@@ -2,6 +2,9 @@
 
 This project focuses on analyzing and visualizing cybersecurity vulnerabilities across the United States, as reported in the CISA Known Exploited Vulnerabilities catalog for 2022. The dataset offers an in-depth exploration of various security vulnerabilities, detailing their types, severity levels, CVSS scores, vendor projects, product names, attack vectors, complexity ratings, and required actions.
 
+>[!NOTE]
+>This project was originally done in Spanish, so some names and references are written in Spanish, I will update it soon.
+
 ## Project Goals
 
 By analyzing this dataset, the project aims to:
